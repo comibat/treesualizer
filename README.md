@@ -17,3 +17,9 @@ to get all searchable.
 
 ## Requirements
 python3, with no additional libraries requred.
+
+## Disclaimer
+It's not perfect, but it works.
+
+## Credits
+Special thanks to mjokic (https://github.com/mjokic) for the name contribution.
